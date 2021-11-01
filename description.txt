@@ -1,0 +1,12 @@
+body-parser = Gelen isteklerdeki body alanını pars etmek için kullanılır.
+cors = Uzaktaki bir sunucuya htttp istekleri yapıldığı zaman engellenme durumlarını ortadan kaldırmak için kullanılır. Yani mongoDb'ye yapılan isterklerin engellenmemesi için kullanılır.
+express = Server için ???
+mongoose = MongoDb'ye yapılacak isteklerde client oluşturmak için kullanılır.
+dotenv = index.js içerisindeki process.env kodunu doldurur. CONNTECTION_URL ve PORT bilgilerini index.js yerine .env dosyasında tutmak istediğimizde bu pakete ihtiyaç duyarız.
+nodemon = Proje üzerinde her değişiklik yapıldığında projeyi tekrar tekrar derleme probleminden kaçınmak için yüklendi.
+
+
+
+
+//-----------------------
+"start": "nodemon index.js"
