@@ -15,3 +15,5 @@ PORT = 5000
 5- Projeyi port üzerinden ayağa kaldırmak için projenin ana dizinini hedef alan terminal üzerinden "npm run start" komutu yazılmalı ya da F5 yapılmalı.
 
 6- Son olarak bu projeye bağımlı olan frontend çalıştırılmalı.
+
+7- Projenin anlatımı: https://www.youtube.com/watch?v=F9F6PmJN6gE
